@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-hub
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+transformers
+datasets
+tqdm
+Pillow
