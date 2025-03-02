@@ -34,6 +34,10 @@ This project provides a basic introduction to computer vision concepts and techn
 *   **Objective**: Build an Autoencoder for the MNIST dataset.
 *   **Description**: Uses PyTorch to load and preprocess the MNIST dataset, define an Autoencoder architecture, train the Autoencoder, and visualize the results.
 
+```
+More coming when I feel so...
+```
+
 ## How to Run
 
 1.  Clone the repository:
